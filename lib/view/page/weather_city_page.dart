@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_weather/common/colors.dart';
-import 'package:flutter_weather/generated/i18n.dart';
+import 'package:flutter_weather/generated/l10n.dart';
 import 'package:flutter_weather/model/data/weather_air_data.dart';
 import 'package:flutter_weather/model/data/weather_data.dart';
 import 'package:flutter_weather/utils/aqi_util.dart';
