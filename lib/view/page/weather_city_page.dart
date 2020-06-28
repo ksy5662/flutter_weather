@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_weather/common/colors.dart';
-import 'package:flutter_weather/generated/i18n.dart';
+import 'package:flutter_weather/generated/l10n.dart';
 import 'package:flutter_weather/model/data/weather_air_data.dart';
 import 'package:flutter_weather/model/data/weather_data.dart';
 import 'package:flutter_weather/utils/aqi_util.dart';
@@ -405,7 +405,7 @@ class WeatherCityState extends PageState<WeatherCityPage>
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
                 Text(
-                  S.of(context).windScValue("${now?.windSc ?? 0}"),
+                  S.of(context).windScValue,
                   style: TextStyle(fontSize: 16, color: Colors.white),
                 ),
                 Text(

@@ -3,7 +3,7 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_weather/common/streams.dart';
-import 'package:flutter_weather/generated/i18n.dart';
+import 'package:flutter_weather/generated/l10n.dart';
 import 'package:flutter_weather/model/holder/event_send_holder.dart';
 import 'package:flutter_weather/model/holder/shared_depository.dart';
 import 'package:flutter_weather/view/page/splash_page.dart';

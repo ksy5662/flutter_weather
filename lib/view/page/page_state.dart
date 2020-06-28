@@ -5,7 +5,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_weather/common/streams.dart';
-import 'package:flutter_weather/generated/i18n.dart';
+import 'package:flutter_weather/generated/l10n.dart';
 import 'package:path_provider/path_provider.dart';
 
 export 'package:flutter_weather/common/streams.dart'

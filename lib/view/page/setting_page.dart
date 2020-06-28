@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_colorpicker/block_picker.dart';
 import 'package:flutter_weather/common/colors.dart';
-import 'package:flutter_weather/generated/i18n.dart';
+import 'package:flutter_weather/generated/l10n.dart';
 import 'package:flutter_weather/model/holder/event_send_holder.dart';
 import 'package:flutter_weather/model/holder/shared_depository.dart';
 import 'package:flutter_weather/utils/system_util.dart';

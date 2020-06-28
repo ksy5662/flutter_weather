@@ -117,3 +117,6 @@ flutter:
     - images/hammer_share3.jpg
     # assets
     - assets/china-city-list.csv
+flutter_intl:
+  enabled: true
+  main_locale: zh

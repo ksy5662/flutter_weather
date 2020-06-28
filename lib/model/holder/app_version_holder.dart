@@ -2,7 +2,7 @@ import 'package:connectivity/connectivity.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_weather/common/colors.dart';
-import 'package:flutter_weather/generated/i18n.dart';
+import 'package:flutter_weather/generated/l10n.dart';
 import 'package:flutter_weather/model/service/app_version_service.dart';
 import 'package:flutter_weather/utils/channel_util.dart';
 import 'package:flutter_weather/utils/log_util.dart';
